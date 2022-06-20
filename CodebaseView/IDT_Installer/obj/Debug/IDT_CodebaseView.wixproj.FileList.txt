@@ -1,0 +1,6 @@
+E:\GitLab\CPTS 423\cpts-421\CodebaseView\IDT_Installer\bin\Debug\IDT_Installer.msi
+E:\GitLab\CPTS 423\cpts-421\CodebaseView\IDT_Installer\bin\Debug\IDT_Installer.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\IDT_CodebaseView.wixproj.BindContentsFileListnull.txt
+obj\Debug\IDT_CodebaseView.wixproj.BindOutputsFileListnull.txt
+obj\Debug\IDT_CodebaseView.wixproj.BindBuiltOutputsFileListnull.txt
